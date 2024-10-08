@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node":"v20.17.0" 
+    "node":">=20.15.0 <21" 
   },
   "name": "mongo-project",
   "version": "1.0.0",
